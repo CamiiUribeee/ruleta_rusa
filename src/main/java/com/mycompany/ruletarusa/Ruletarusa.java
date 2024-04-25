@@ -11,7 +11,7 @@ public class Ruletarusa {
         
         for (int i=0; i<1; i++){
             
-            int N = 1+ number.nextInt(6);    //quiero traerme el number que hay en la clase Message, pero me marca error 
+            int N = 1+ number.nextInt(6);    //quiero traerme el number que hay en la clase Message, pero me marca error, buscar bien esto 
             System.out.println(N);   
         }
         
